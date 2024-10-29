@@ -1,3 +1,5 @@
+# Amazon Web Scraper
+
 This project performs web scraping on Amazon to collect product details, such as reviews, and ratings. The scraper handles dynamic content loading and pagination, allowing for efficient data gathering of multiple product categories.
 
 Technologies: Python, BeautifulSoup 
